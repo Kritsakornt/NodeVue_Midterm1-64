@@ -20,7 +20,7 @@ require('./routes')(app)
 // app.get('/hello/:person', function(req,res){
 //     console.log('hello -'+req.params.person);
 //     res.send('say hello with ' + req.params.person);
-// })
+//  })
 
 
 
