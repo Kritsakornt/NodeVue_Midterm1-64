@@ -18,10 +18,10 @@
             ดูรายระเอียดกล้อง
           </button>
           <button v-on:click="navigateTo('/user/edit/' + user.id)">
-            แก้ไขรายละเอียด
+            แก้ไขรายละเอียดกล้อง
           </button>
           <button v-on:click="deleteUser(user)">
-            ลบรายละเอียด
+            ลบรายละเอียดกล้อง
           </button>
         </p>
         <hr />
